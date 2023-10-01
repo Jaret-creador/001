@@ -13,7 +13,7 @@ body{
     background-repeat: no-repeat;
    font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
    ::-webkit-progress-bar {
-        background-color: #00FF00;
+        background-color:red;
           }
    }
 }
