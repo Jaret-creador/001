@@ -1,12 +1,25 @@
-body {
+body{
+
+      
+
+
+
+
     margin: 0;
     padding: 0;
     background-image: url('https://b.rgbimg.com/cache1w8YmD/users/x/xy/xymonau/600/ousJC20.jpg');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
-    font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+   font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+   ::-webkit-progress-bar {
+        background-color: #00FF00;
+          }
+   }
 }
+
+
+
 
 header {
     display: flex;
